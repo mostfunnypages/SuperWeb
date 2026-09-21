@@ -1,0 +1,9 @@
+{
+  "name": "SuperWeb",
+  "short_name": "SuperWeb",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#171a2b",
+  "description": "Herramientas gratuitas online"
+}

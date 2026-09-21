@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mostfunnypages.github.io/SuperWeb/sitemap.xml
